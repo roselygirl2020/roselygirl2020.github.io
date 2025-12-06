@@ -99,7 +99,11 @@ a {
 
 }
 
-    
+.but2{
+    display: flex;
+    margin-top: -5.15vh;
+    margin-left: 78vw;
+}    
 
 
     
