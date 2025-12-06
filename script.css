@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double+Ink:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fahkwang:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Changa+One:ital@0;1&display=swap');
+
+body{
+    
+     background-color: rgb(255, 243, 223);
+     background-size: cover;
+    margin: 0px;
+    padding: 0;
+     
+}
+.tap{
+
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 2%;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(238, 148, 211);
+    position: fixed;
+   
+
+}
+.h1{
+    font-size: 50px;
+    margin-top: 22PX;
+    margin-left: 50PX;
+    color: aliceblue;
+   
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+
+
+
+}
+
+.inbox{
+    width: 75%;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-top: 100px;
+    
+    background-color: white;
+}
+
+.welcome{
+  font-family: "Bitcount Prop Double Ink", system-ui;
+  font-size: 50px;
+  font-weight: 50px;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0,
+    "SZP1" 0,
+    "SZP2" 0,
+    "XPN1" 0,
+    "XPN2" 0,
+    "YPN1" 0,
+    "YPN2" 0;
+    margin-left: 50px;
+}
+.This{
+    color: rgb(130, 80, 23);
+    margin-left: 50px;
+    font-family: "Fahkwang", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: larger;
+}
+.mypic img{
+    width: 250px;
+    height: 250px;
+    border-radius: 123px;
+    display: flex;
+    margin-left: 875px;
+    margin-top: -100px;
+    
+}
+.but1{
+    display: flex;
+    margin-top: -85px;
+    margin-left: 1000px;
+    
+}
+
+
+a {
+    color:rgb(92, 58, 29);
+    font-size: 35px;
+     font-family: "Changa One", sans-serif;
+
+
+}
+
+    
+
+
+    
