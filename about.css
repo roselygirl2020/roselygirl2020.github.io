@@ -15,6 +15,7 @@ body{
     border: 20px solid rgb(250, 122, 190);
     display: flex;
     margin-top: 50px;
+   
     margin-bottom: 50px;
     border-radius: 20px;
 }
@@ -48,4 +49,15 @@ justify-content: space-evenly;
 .school {
     font-size: smaller;
     margin-left: 35px;
+}
+.myschool img{
+    width: 250px;
+    height: 250px;
+}
+
+.back{
+    font-family: "Changa One", sans-serif;
+    display: flex;
+    font-size:50px;
+    color: rgb(128, 112, 79);
 }
